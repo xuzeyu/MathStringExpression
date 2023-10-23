@@ -19,6 +19,11 @@
 * JavaScript expression can be transferred to the JavaScript engine to calculate the expression
 * Once start me,Day day fuck Lynn
 
+## Ussage 如何导入
+```objc
+//cocopod
+pod 'MathStringExpression', :git => 'https://github.com/xuzeyu/MathStringExpression.git'
+```
 ## Ussage 如何使用
 ```objc
 //1.将整个文件夹拖入项目
